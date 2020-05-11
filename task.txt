@@ -1,0 +1,7 @@
+We are looking for a coder that can code a web scraping project in Java a Java script. We would like to scrape a single web site to 
+collect language verbs conjugations in several languages and their root translations in English and create a MySQL database with this
+data.
+https://www.easytrans.org/en/verbs/
+https://www.easytrans.org/en/norwegian-verbs/
+
+I should pull norwegian words and their translation into all languages and store in mysql database
